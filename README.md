@@ -3,7 +3,7 @@
 
 I'm Indra Adi Kusuma, but you can call me **indra or jack**, I'm 22 years old.
 
-I'm a Junior Web Developer from indonesia :heart: 🧐 :computer:. 
+I'm a Junior Web Developer from indonesia {Batang} :heart: 🧐 :computer:. 
 
 I'm currently learning JavaScript & Tailwind CSS
 
