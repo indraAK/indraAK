@@ -23,6 +23,11 @@ I'm currently learning JavaScript & React JS
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=CodeIgniter)
 
+**Social Links:**  
+
+<a href="https://google.com"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Facebook"/></a>
+<a href="https://google.com"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Instagram"/></a>
+
 ----
 
 <div>
