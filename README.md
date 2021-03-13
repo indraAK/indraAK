@@ -3,9 +3,9 @@
 
 I'm Indra Adi Kusuma, but you can call me **indra or jack**.
 
-I'm a Junior Web Developer from indonesian {Batang} :heart: 🧐 :computer:. 
+I'm a Front-end Developer from indonesian {Batang} :heart: 🧐 :computer:. 
 
-I'm currently learning JavaScript
+I'm currently learning JavaScript & React JS
 
 ---- 
 
