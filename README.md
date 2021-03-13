@@ -25,8 +25,8 @@ I'm currently learning JavaScript & React JS
 
 **Social Links:**  
 
-<a href="https://google.com"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Facebook"/></a>
-<a href="https://google.com"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=100009019826862"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Facebook"/></a>
+<a href="https://instagram.com/mrx.indra?igshid=11kpair02rpez"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Instagram"/></a>
 
 ----
 
