@@ -17,6 +17,7 @@ I'm currently learning JavaScript & React JS
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
 ![VScode](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visual-studio-code)
 ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
