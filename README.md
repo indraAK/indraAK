@@ -1,11 +1,8 @@
 ### Hi there 👋
 ---- 
 
-I'm Indra Adi Kusuma, but you can call me **indra or jack**.
-
-I'm a Front-end Developer from indonesian {Batang} :heart: 🧐 :computer:. 
-
-I'm currently learning JavaScript & React JS
+I'm Indra Adi Kusuma, but you can call me **indra**.
+I'm currently learning JavaScript, React JS & NodeJS
 
 ---- 
 
