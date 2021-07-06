@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---- 
 
-I'm Indra Adi Kusuma, but you can call me **indra**.
+I'm Indra Adi Kusuma,
 I'm currently learning JavaScript, React JS & NodeJS
 
 ---- 
@@ -12,7 +12,6 @@ I'm currently learning JavaScript, React JS & NodeJS
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
