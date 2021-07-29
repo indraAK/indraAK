@@ -28,7 +28,6 @@ I'm currently learning JavaScript, React JS & NodeJS
 ----
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=indraAK&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraAK&layout=compact" />
 </div>
 
