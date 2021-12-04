@@ -1,8 +1,7 @@
 ### Hi there 👋
 ---- 
 
-I'm Indra Adi Kusuma,
-I'm currently learning JavaScript, React & Node.js
+Currently learning JavaScript, React & Next.js
 
 ---- 
 
